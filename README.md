@@ -1,5 +1,10 @@
-### Hi there 👋
+<div align="center" markdown="1">
+<h3>         
 
+<img style="display: block; margin: auto; align:center;" alt="photo" src="https://github-readme-stats.zohan.tech/api?username=lupyana&count_private=true&show_icons=true&theme=github_dark&border_radius=30&border_color=39D353&icon_color=39D353&title_color=fff" />
+<br><br><br>
+<img style="display: block; margin: auto; align:center;" alt="photo" src="https://github-readme-streak-stats.herokuapp.com/?user=lupyana&theme=github-dark&hide_border=true" />
+ <img  src="https://github-readme-stats.zohan.tech/api/top-langs/?username=lupyana&layout=compact&langs_count=8&hide=html&theme=github_dark&border_radius=30&border_color=39D353&title_color=fff" />
 <!--
 **lupyana/lupyana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</div>
